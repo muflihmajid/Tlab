@@ -1,0 +1,18 @@
+{
+    "app_name": "Lancong",
+    "app_subjudul":"lancong.id",
+    "profile_title":"Profile",
+    "home_bar":"Home",
+    "tourism":"Torism",
+    "profile_bar":"Profile",
+    "input_placeholder_employee":"Username",
+    "input_placeholder_password":"Password",
+    "label_enter":"Login",
+    "kota": "Kota",
+    "notFound":"Kota yang anda cari tidak ditemukan",
+    "apikey": "Api Key anda salah",
+    "failed":"gagal",
+    "search":"cari",
+    "perkiraan":"Perkiraan hari ini",
+    "perkiraan5":"Perkiraan hari yang akan datang "
+}

@@ -3,6 +3,7 @@ import 'package:encrypt/encrypt.dart' as AESEncryptor;
 
 class Encrypter implements EncrypterInterface {
 
+  
   @override
   String encrypt(String str) {
     try {
